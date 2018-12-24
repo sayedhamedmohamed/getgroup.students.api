@@ -1,7 +1,7 @@
 package com.getgroup.school.students.constants;
 
 /**
- * The Class AppConstants.
+ * The Class StudentStatusConstants.
  */
 /**
  * @author sayedhamed
